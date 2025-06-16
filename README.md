@@ -23,6 +23,9 @@ This project helps students discover suitable career paths based on their intere
 
 ## 🛠️ Installation & Usage
 
+Download notebook from
+https://colab.research.google.com/drive/1vpHmGce9yoh2lfunXBs2o-Kz5jhkGcBo?usp=sharing
+
 
 ### ✅ Clone the Repository
 
