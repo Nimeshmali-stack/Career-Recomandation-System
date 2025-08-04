@@ -32,9 +32,7 @@ Make a copy of the notebook and run the cells on T4 GPU
 git clone https://github.com/Nimeshmali-stack/Career-Recommendation-System.git
 cd student-career-recommender
 
-Author
-Nimesh Mali
-
-Internship project for selection process
+## Author
+**Nimesh Mali**  
 
 
