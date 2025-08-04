@@ -29,7 +29,7 @@ Make a copy of the notebook and run the cells on T4 GPU
 
 ## Author
 **Nimesh Mali**  
-📧 Email: your_email@example.com  
+📧 Email: nimeshmali2004@gmail.com 
 🔗 GitHub: [Nimeshmali-stack](https://github.com/Nimeshmali-stack)  
 
 
