@@ -26,13 +26,16 @@ This project helps students discover suitable career paths based on their intere
 Make a copy of the notebook and run the cells on T4 GPU
 
 
-### ✅ Clone the Repository
-
-```bash
-git clone https://github.com/Nimeshmali-stack/Career-Recommendation-System.git
-cd student-career-recommender
 
 ## Author
 **Nimesh Mali**  
+📧 Email: your_email@example.com  
+🔗 GitHub: [Nimeshmali-stack](https://github.com/Nimeshmali-stack)  
+
+
+
+
+
+
 
 
